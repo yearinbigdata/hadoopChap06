@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.example.delay.grp.DelayCountMapperReducerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.312 sec <<< FAILURE! - in com.example.delay.grp.DelayCountMapperReducerTest
+testMapReduce2(com.example.delay.grp.DelayCountMapperReducerTest)  Time elapsed: 0.05 sec  <<< FAILURE!
+java.lang.AssertionError: 10 Error(s): (Missing expected output (D,1987,7, 1) at position 1, got (total : , 1)., Missing expected output (D,1987,10, 1) at position 2, got (A,2008,1, 1)., Missing expected output (A,2008,1, 1) at position 3, got (total : , 1)., Missing expected output (A,1987,10, 1) at position 5, got (total : , 1)., Received unexpected output (D,1987,10, 1) at position 6., Received unexpected output (total : , 1) at position 7., Received unexpected output (A,1987,10, 1) at position 8., Received unexpected output (total : , 1) at position 9., Received unexpected output (D,1987,7, 1) at position 10., Received unexpected output (total : , 1) at position 11.)
+	at org.junit.Assert.fail(Assert.java:93)
+	at org.apache.hadoop.mrunit.internal.util.Errors.assertNone(Errors.java:73)
+	at org.apache.hadoop.mrunit.TestDriver.validate(TestDriver.java:768)
+	at org.apache.hadoop.mrunit.TestDriver.runTest(TestDriver.java:641)
+	at org.apache.hadoop.mrunit.TestDriver.runTest(TestDriver.java:627)
+	at com.example.delay.grp.DelayCountMapperReducerTest.testMapReduce2(DelayCountMapperReducerTest.java:98)
+

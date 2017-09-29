@@ -1,0 +1,14 @@
+/project/03_Src/hadoop/chap06/src/test/java/com/example/log/CommonsLogTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/delay/grp/DelayCountMapperTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/sort/DateKeySortText.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/delay/grp/DelayCountReducerTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/sort/StringSortTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/delay/mos/DelayCountMapperTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/delay/grp/DelayCountMapperReducerTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/delay/mos/DelayCountReducerTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/delay/mos/DelayCountMapperReducerTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/sort/ArraySortTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/log/Log4JTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/sort/BeanSortTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/sort/mr/SecondarySortTest.java
+/project/03_Src/hadoop/chap06/src/test/java/com/example/core/HashPartitionerTest.java
